@@ -1,0 +1,7 @@
+LIBRARY    "kbdControl"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities

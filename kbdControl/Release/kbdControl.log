@@ -1,0 +1,27 @@
+﻿Построение начато 04.01.2017 7:35:44.
+     1>Проект "C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\kbdControl\kbdControl.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\kbdControl.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D KBDCONTROL_EXPORTS /D ADDINCPP_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt exMethod.cpp
+         exMethod.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\Release\kbdControl.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"kbdControl.def" /MANIFEST /ManifestFile:"Release\kbdControl.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\Release\kbdControl.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\Release\kbdControl.lib" /MACHINE:X86 /DLL Release\AddinMethod.obj
+         Release\AddinProperty.obj
+         Release\exMethod.obj
+         Release\KbdControl.obj
+         Release\pubFunctions.obj
+            Создается библиотека C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\Release\kbdControl.lib и объект C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\Release\kbdControl.exp
+         Создание кода
+         Создание кода завершено
+         kbdControl.vcxproj -> C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\Release\kbdControl.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\Release\kbdControl.dll;#2" /manifest Release\kbdControl.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\kbdControl.unsuccessfulbuild" удаляется.
+         Обращение к "Release\kbdControl.lastbuildstate".
+     1>Построение проекта "C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\kbdControl\kbdControl\kbdControl.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.06
